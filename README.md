@@ -1,73 +1,126 @@
-# ToDoList Structure
+<a name="readme-top"></a>
 
-> Description the project.
-In this project we will be using webpack to create, edit, and delete tasks from a list of tasks created by the user, the main goals of this project are:
+  <h3><b>TODO LIST</b></h3>
 
-- Use webpack to bundle JavaScript.
-- Learn how to use proper ES6 syntax.
-- Use ES6 modules to write modular JavaScript.
+</div>
+# 📗 Table of Contents
 
-## Built With
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+    - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#)
 
-- HTML
-- CSS
-- JavaScript
+<!-- PROJECT DESCRIPTION -->
 
-## Live Demo (if available)
+# 📖 [ TODO LIST] <a name="about-project"></a>
 
-[Live Demo Link](https://livedemo.com)
+ > In this project we will be using webpack to create, edit, and delete tasks from a list of tasks created by the user 
 
+## 🛠 Built With <a name="built-with"></a>
 
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+### Tech Stack <a name="tech-stack"></a>
 
 
-To get a local copy up and running follow these simple example steps.
+   #### HTML, CSS & Javascript.
+
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+- **[User-friendly Interface]**
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Comming Soon](#)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+>
+To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
+In order to run this project you need:
+ node.js installed
+
 ### Setup
-Have git installed. (For version control)
-Have text editor installed. (Preferably VSCode)
-Have CSS,HTML & JS Linters installed and configured. For further information, visit this link to get better understanding on each linters used on this project.
+
+Clone this repository to your desired folder:
+And go to that folder where you want the project for example if you want to have it in my-folder you can go like this 
+  cd my-folder
+  C:\Users\Dell\my-folder
+After you can clone using this command  
+  git clone https://github.com/Shahid-Bagwan/Todo-list.git
+
 
 ### Install
 
+Install this project with:
+
+this project does not have need further installition just 
+you should have IDE and browser
+
 ### Usage
 
-### Run tests
+to run this project you need Google chrome or other browser 
 
-### Deployment
-- Create a new task
-- Delete task
--  Add a new task
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- AUTHORS -->
 
-## Authors
+## 👥 Authors <a name="authors"></a>
 
-👤 **Author1**
+> 
 
+👤 **Shahid**
 
+- GitHub: [@githubhandle](https://github.com/Shahid-Bagwan)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/shahid-bagwan-a0a76a1b4/)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🤝 Contributing
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+ - integration with javascript
+ - Adding more html content
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Show your support
+## ⭐️ Show your support <a name="support"></a>
 
-Give a ⭐️ if you like this project!
+If you like this project give it a star⭐
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Acknowledgments
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+I would like to thank microverse and my family for supporting me to build this project.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-- Thanks for Microverse 
-- Thanks for me
-
-## 📝 License
+## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
+
 
