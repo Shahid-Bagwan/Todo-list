@@ -121,6 +121,6 @@ I would like to thank microverse and my family for supporting me to build this p
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./MIT.md) licensed.
 
 
