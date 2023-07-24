@@ -100,7 +100,6 @@ to run this project you need Google chrome or other browser
 
  - integration with javascript
  - Adding more html content
- - creating a user friendly desing
 
 <!-- CONTRIBUTING -->
 
