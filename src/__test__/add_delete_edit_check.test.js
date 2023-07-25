@@ -16,12 +16,31 @@ describe('Store', () => {
   });
 });
 
+// describe('Delete task', () => {
+//   test('Should remove added task', () => {
+//     const deleteBtn = document.querySelector('.delete');
+//     deleteBtn.click();
+//     const listElement = document.querySelectorAll('textarea');
+//     expect(listElement).toHaveLength(0);
+//   });
+// });
+
 describe('Delete task', () => {
   test('Should remove added task', () => {
-    const deleteBtn = document.querySelector('.delete');
-    deleteBtn.click();
-    const listElement = document.querySelectorAll('textarea');
-    expect(listElement).toHaveLength(0);
+    const deleteBtns = document.querySelectorAll('.delete'); // Get all delete buttons
+    const listElements = document.querySelectorAll('textarea'); // Get all list elements
+
+    if (listElements.length > 1) {
+      // eslint-disable-next-line no-plusplus
+      for (let i = 0; i < deleteBtns.length; i++) {
+        deleteBtns[i].click();
+        expect(document.querySelectorAll('textarea')).toHaveLength(listElements.length - 1 - i);
+      }
+    } else {
+      const deleteBtn = document.querySelector('.delete');
+      deleteBtn.click();
+      expect(document.querySelectorAll('textarea')).toHaveLength(0);
+    }
   });
 });
 
