@@ -14,7 +14,7 @@ form.addEventListener('submit', (e) => {
 
 const clearBtn = document.querySelector('.clear-btn');
 
- clearBtn.addEventListener('click', (e) => {
+clearBtn.addEventListener('click', (e) => {
   e.preventDefault();
   formClear();
   displayTodo();
