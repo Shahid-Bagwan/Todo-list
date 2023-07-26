@@ -14,10 +14,10 @@ form.addEventListener('submit', (e) => {
 
 const clearBtn = document.querySelector('.clear-btn');
 
-// clearBtn.addEventListener('click', (e) => {
-//   e.preventDefault();
-//   formClear();
-//   displayTodo();
-// });
+ clearBtn.addEventListener('click', (e) => {
+  e.preventDefault();
+  formClear();
+  displayTodo();
+});
 
 displayTodo();
